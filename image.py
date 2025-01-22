@@ -2,7 +2,7 @@ import openai
 from openai import OpenAI
 
 # Create a client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 # Enter your prompt from cmd
 prompt = input("Enter your prompt: ")
